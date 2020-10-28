@@ -1,0 +1,8 @@
+tqdm~=4.50.2
+numpy
+torch
+torchvision
+pandas
+scikit-learn
+runx
+opencv-python
